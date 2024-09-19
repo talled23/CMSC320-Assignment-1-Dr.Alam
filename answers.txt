@@ -1,0 +1,5 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: It could be applied to health medicine to provide doctors with accurate information
+so they can make more informed decisions. For example, a doctor might need the patient's 
+past smoking records to make an informed perscription on lung medicine.
