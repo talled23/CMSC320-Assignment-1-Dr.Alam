@@ -9,3 +9,7 @@ Answer: It could be applied to health medicine to provide doctors with accurate 
 so they can make more informed decisions. For example, a doctor might need the patient's 
 past smoking records to make an informed perscription on lung medicine.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two branches by creating merge commit that preserves history
+while Rebasing rewrites the history by moving commits from one branch on top of another.
